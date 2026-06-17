@@ -1,0 +1,9 @@
+,Healthy,T2D
+n_active_nodes,521.0,521.0
+n_edges,4849.0,4335.0
+avg_degree,18.614203,16.641075
+density,0.022919,0.020489
+avg_clustering,0.355343,0.31661
+modularity,0.503843,0.540071
+algebraic_connectivity,0.2999,0.177958
+spectral_radius,52.420144,29.219938
